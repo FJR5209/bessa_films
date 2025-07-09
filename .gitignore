@@ -1,0 +1,11 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Outras pastas temporárias
+node_modules/
+dist/
+build/ 
