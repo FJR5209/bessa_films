@@ -8,4 +8,12 @@ Thumbs.db
 # Outras pastas temporárias
 node_modules/
 dist/
-build/ 
+build/
+
+# Arquivos de configuração local
+.env
+.env.local
+
+# Arquivos de backup
+*.bak
+*.backup
